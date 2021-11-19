@@ -260,8 +260,7 @@ puts (is_game_win)
 
 
 when 2
-puts "Its 2"
-    #2v2
+
 
 else 
     puts "Exiting.."
